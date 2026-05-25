@@ -93,26 +93,6 @@ See the full creator guide in [DOCUMENTATION.md → Section 5](./DOCUMENTATION.m
 
 ---
 
-## Repository structure
-
-```
-SlothReSkin/
-├── extension/
-│   ├── content/          → Scripts injected into Roll20
-│   │   ├── roll20_bridge.js   → MAIN-world bridge (accesses Roll20 JS objects)
-│   │   ├── mapper.js          → Read / write attribute helpers
-│   │   ├── injector.js        → Overlay injection and binding
-│   │   └── main.js            → Coordinator; watches character dialogs
-│   ├── popup/            → Extension popup UI
-│   └── background/       → Service worker (image proxy)
-├── Templates/            → Example templates
-├── DOCUMENTACAO.md       → Full documentation (Portuguese)
-├── DOCUMENTATION.md      → Full documentation (English)
-└── README.md             → This file
-```
-
----
-
 ## Legal
 
 SlothReSkin only modifies the local HTML rendered in your browser. It does not make abnormal requests to Roll20's servers, does not bypass Roll20's API, and does not share any data externally. All character data remains stored exclusively on Roll20's infrastructure.
