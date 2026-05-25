@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./readmeFiles/SlothCircleIcon.png" alt="SlothReSkin" width="480"><br>
+  <img src="./readmeFiles/SlothCircleIconx128.png" alt="SlothReSkin" width="480"><br>
   SlothReSkin
 </h1>
 
