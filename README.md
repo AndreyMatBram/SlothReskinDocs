@@ -38,7 +38,7 @@ SlothReSkin overlays Roll20's character sheet with a fully custom HTML file you 
 
 ## Quick start
 
-1. Install the extension from the Chrome Web Store *(link coming soon)*
+1. Install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/pagaihjnmljhpfjbieimefcmedkhfoac?utm_source=item-share-cb)
 2. Click the SlothReSkin icon → load an **HTML template** and a **config.json**
 3. Reload your Roll20 tab
 4. Open any character sheet
